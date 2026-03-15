@@ -1,0 +1,6 @@
+The lab report should cover the following experiments:
+1. To simulate spring mass system
+2. To approximate the Value of π using Monte Carlo Simulation
+3. To simulate Discharging of a Capacitor
+4. To simulate Drunk Man Random Walk
+5. To simulate Chi-Squared Test
